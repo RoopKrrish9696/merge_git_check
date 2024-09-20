@@ -4,7 +4,9 @@
   "borderColor": "#E0DEDE",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": "1",
+
   "bottomRow": 59,
+
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "canFreezeColumn": true,
   "childStylesheet": {
@@ -65,7 +67,9 @@
   "isVisibleSearch": true,
   "key": "61a1qeb72i",
   "label": "Data",
+
   "leftColumn": 4,
+
   "minWidth": 450,
   "mobileBottomRow": 58,
   "mobileLeftColumn": 0,
@@ -78,11 +82,13 @@
   "primaryColumns": {},
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
+
   "rightColumn": 27,
   "searchKey": "",
   "tableData": "",
   "textSize": "1.25rem",
   "topRow": 31,
+
   "totalRecordsCount": 0,
   "type": "TABLE_WIDGET_V2",
   "version": 2,
