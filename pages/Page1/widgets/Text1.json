@@ -11,12 +11,10 @@
     },
     {
       "key": "borderRadius"
-    },
-    {
-      "key": "text"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1rem",
   "fontStyle": "BOLD",
@@ -32,6 +30,8 @@
   "mobileRightColumn": 21,
   "mobileTopRow": 15,
   "needsErrorInfo": false,
+  "originalBottomRow": 19,
+  "originalTopRow": 15,
   "overflow": "NONE",
   "parentColumnSpace": 13.0625,
   "parentId": "0",
@@ -40,7 +40,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 21,
   "shouldTruncate": false,
-  "text": "Hello {{appsmith.user.name || appsmith.user.email}}",
+  "text": "there",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 15,
