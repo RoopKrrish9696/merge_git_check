@@ -8,7 +8,7 @@
   "disabledWhenInvalid": false,
   "dynamicBindingPathList": [
     {
-      "key": "buttonColor"
+      "key": "buttonCoor"
     },
     {
       "key": "borderRadius"
