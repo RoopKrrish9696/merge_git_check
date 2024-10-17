@@ -1,11 +1,11 @@
 {
-  "gitSyncId": "66ea675743315269715723c2_5a337815-f0a8-4f6d-9763-a54d97a2afe9",
-  "id": "Page1_Query1",
+  "gitSyncId": "66ea675743315269715723c2_0d9fa572-0ca6-46c4-86ab-719efca6b153",
+  "id": "Page1_Query2",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM public.\"users\" LIMIT 20;",
+      "body": "SELECT * FROM public.\"users\" LIMIT 10;",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -22,9 +22,8 @@
       "name": "users (5)",
       "pluginId": "postgres-plugin"
     },
-    "dynamicBindingPathList": [],
-    "executeOnLoad": true,
-    "name": "Query1",
+    "executeOnLoad": false,
+    "name": "Query2",
     "pageId": "Page1",
     "userSetOnLoad": false
   }
